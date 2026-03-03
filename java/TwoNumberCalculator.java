@@ -2,9 +2,9 @@ import java.util.*;
 public class TwoNumberCalculator {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter First Number");
+        System.out.println("Enter First Number:");
         double a = sc.nextDouble();
-        System.out.println("Enter Second Number");
+        System.out.println("Enter Second Number:");
         double b = sc.nextDouble();
         System.out.println("Choose operation: + - * / % ");
        char op = sc.next().charAt(0);
