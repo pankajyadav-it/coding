@@ -1,0 +1,20 @@
+import java.util.*;
+public class InFunctionSumOfOddNumbers {
+    public static void findSumOfOddNumbers(int n){
+    int sum = 0;
+    for(int i = 1; i <= n; i++){
+        if(i % 2 != 0){
+            sum = sum + i;
+        }
+    }
+        System.out.println("Sum Of Odd Numbers: "+ sum);
+        
+    }
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter a Number:");
+        int n = sc.nextInt();
+        findSumOfOddNumbers(n);
+    }  
+}
