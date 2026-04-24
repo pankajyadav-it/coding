@@ -4,6 +4,7 @@ public class TableEnterAnyNumber {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a Number :");
         int n = sc.nextInt();
+        System.out.println("Table:");
         for( int i =1; i < 11; i++){
             System.out.println(i * n);
         }

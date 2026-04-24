@@ -1,9 +1,9 @@
 public class WhileLoopCondition3 {
     public static void main(String[] args) {
         int i = 0;
-        while(i < 4){
+        while(i < 5){
             System.out.println("Pankaj Yadav");
-            i = i +1;
+            i = i + 1;
         }
     }
     
