@@ -1,0 +1,100 @@
+/* #container{
+    height: 150px;
+    width: 750px;
+    background-color: brown;
+    font-style: italic;
+}
+div{
+    height: 75px;
+    width: 75px;
+    display: inline-block;
+    text-align: center;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    
+}
+#box1{
+    background-color: rgb(236, 229, 229);
+}
+#box2{
+    background-color: greenyellow;
+}
+#box3{
+    background-color: rgb(247, 98, 29);
+}
+#box4{
+    background-color: yellow;
+}
+h1{
+    font-display: rgb(143, 44, 44);
+    background-color: aqua;
+    font-style: oblique;
+} */
+/* ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    background-color: rgb(183, 235, 41);
+    justify-content: space-around;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+} */
+/* div{
+    width: 300px;
+    height: 300px;
+    background-color: lightgrey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid black;
+}
+.child{
+    height: 100px;
+    width: 100px;
+    background-color: coral;
+} */
+/* div{
+        height: 100px;
+        width: 100px;
+        background-color: yellow;
+    }
+@media(width: 600px){
+    div{
+        background-color: red;
+    }
+}
+@media(min-width: 200px) and (max-width: 300px){
+    div{
+        background-color: blue;
+    }
+} */
+ div{
+    height: 200px;
+    width: 200px;
+    background-color: coral;
+ }
+ @media(max-width:300px){
+    div{
+        background-color: green;
+    }
+ }
+ @media(min-width: 300px) and (max-width: 400px){
+    div{
+        background-color: pink;
+    }
+ }
+@media(min-width: 400px) and (max-width:600px){
+    div{
+        background-color: red;
+    }
+}
+@media(min-width: 600px){
+    div{
+        background-color: blue;
+    }
+}
+
+

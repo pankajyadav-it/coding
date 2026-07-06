@@ -1,0 +1,49 @@
+/* #Box1{
+    height: 100px;
+    width: 200px;
+    background-color: green;
+    font-size: 15px;
+}
+#Box2{
+    height: 50px;
+    width: 30%;
+    background-color: yellow;
+    font-size: 2em;
+} */
+ /* #Box1{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    position: relative;
+ }
+ #Box2{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+ }
+#Box3{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+} */
+/* div{
+    height: 150px;
+    width: 150px;
+    display: inline-block;
+}
+body{
+    background-image: url("product_photo.jpg");
+    background-size: cover;
+}
+#Box1{
+
+} */
+div{
+    height: 200px;
+    width: 200px;
+    background-image: url("nature_image.jpg");
+    background-size: cover;
+    font-size: white;
+    position: fixed;
+
+}

@@ -1,2 +1,2 @@
 
-    }
+        this.age = age;

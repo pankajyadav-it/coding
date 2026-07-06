@@ -1,0 +1,29 @@
+#navbar{
+    background-color: black;
+    height: 60px;
+}
+#logo{
+    color: rgb(228, 28, 28);
+    font-size: 25px;
+}
+a{
+    color: aliceblue;
+    margin-right: 150px;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+}
+.content{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+}
+#content{
+    height: 500px;
+}
+.button{
+    text-align: center;
+}

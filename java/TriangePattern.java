@@ -1,5 +1,5 @@
 import java.util.*;
-public class TemplePattern {
+public class TriangePattern {
     public static void main(String[] args) {
         int n = 5;
         //outer loop
